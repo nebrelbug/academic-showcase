@@ -1,6 +1,6 @@
 #search-query:focus {
   outline: none;
-  border: 2px solid lightblue;
+  border: 2px solid lightblue !important;
 }
 
 button.navbar-toggler {
